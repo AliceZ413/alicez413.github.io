@@ -4,12 +4,8 @@
     "pub_date": "2024-05-29T01:39:12.685Z",
     "platforms": {
         "darwin-x86_64": {
-            "signature": "",
-            "url": ""
-        },
-        "darwin-aarch64": {
-            "signature": "",
-            "url": ""
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSkI4OU9GeWE5bUpqcnovTmxBTVBhZjBNTDJoSktrSUZuc3lMaU5SS0FiQUhSNkMwcjNvaEdFZ1JncDlaellBT2JBeUozdkk4OEZvL2gyYjF6elgwU0pjcERORUF4VUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2OTUwNDExCWZpbGU6dGF1cmktdXBkYXRlci1kZW1vLmFwcC50YXIuZ3oKalMzRk02eG1VVTF3Ymp4RlFlM2RJcFNrSDFFa2VXbjFFblFLcEpnUU9kWllGZ1EzTWNjVDVNS3pEamlLRzk1US9YbXUyMVpQVlJvdVY4UDNOVHdSQnc9PQo=",
+            "url": "https://alicez413.github.io/releases/tauri-updater-demo.app.tar.gz"
         }
     }
 }
