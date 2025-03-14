@@ -1,11 +1,11 @@
 {
-    "version": "v1.0.0",
+    "version": "v1.1.1",
     "notes": "Test version",
-    "pub_date": "2024-05-29T01:39:12.685Z",
+    "pub_date": "2025-03-14T17:42:47.685Z",
     "platforms": {
         "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSkI4OU9GeWE5bUpqcnovTmxBTVBhZjBNTDJoSktrSUZuc3lMaU5SS0FiQUhSNkMwcjNvaEdFZ1JncDlaellBT2JBeUozdkk4OEZvL2gyYjF6elgwU0pjcERORUF4VUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2OTUwNDExCWZpbGU6dGF1cmktdXBkYXRlci1kZW1vLmFwcC50YXIuZ3oKalMzRk02eG1VVTF3Ymp4RlFlM2RJcFNrSDFFa2VXbjFFblFLcEpnUU9kWllGZ1EzTWNjVDVNS3pEamlLRzk1US9YbXUyMVpQVlJvdVY4UDNOVHdSQnc9PQo=",
-            "url": "https://alicez413.github.io/releases/tauri-updater-demo.app.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSkI4OU9GeWE5bVBhajVjSWpudEs0WVYweHhnU2JsNXViSUNKeHU0ZGFwOGh5by96REpSSGhJT3dGcTR2ekNSQ0tMU1lJTWpKOXdmK1BEV0NDRERHMm45bU1rU2NFL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxOTQ1MDg5CWZpbGU6ZGF0YS1yZXBvcnQtY2xpZW50LmFwcC50YXIuZ3oKalI4L1MrSEQ4djNEdURlSnJBZGtuSXpybnFRTjZQQktleExva2tMLzhTV3p5TFVzdHJ2TnArQlBFd3VoU0FQOExYdHNrbENCSzhrbFpKQ21kcVJZQ2c9PQo=",
+            "url": "https://alicez413.github.io/releases/data-report-client.app.tar.gz"
         }
     }
 }
