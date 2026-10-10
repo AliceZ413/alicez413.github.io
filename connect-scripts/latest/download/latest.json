@@ -1,0 +1,10 @@
+{
+    "version": "1.0.1",
+    "notes": "实现自动更新检测",
+    "platforms": {
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbDlxblhoM1pqd01nblVLNmp6Y0FZTUMxSFM4UFVLTlpLVWgyN2k4KzhGakI5TFFSZGNrYU5LKzVtZjB4Vkk2SDIwb1pJaXFPWHZSYkRMdlJ2VVY2UHNPbW9qc3BnMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjI2MDM0CWZpbGU6Y29ubmVjdC1zY3JpcHRzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMQpja0ZDQndDUWVKV3E1RGV0NEFZRU00OXNNeHlqOFc2NnB0dHhZT3ViSDV2MHdRM2RuNWx1MTBtN0h1M0licitkcTN2WGRmSWUxTE1zaGlsSU0vZUVBZz09Cg==",
+            "url": "https://alicez413.github.io/connect-scripts/1.0.1/download/connect-scripts.app.tar.gz"
+        }
+    }
+}
